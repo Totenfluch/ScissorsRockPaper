@@ -1,0 +1,259 @@
+"Phrases"
+{
+	"opponentDisconnect"
+	{
+		"#format"	"{1:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}Your Oponent disconnected"
+		"de"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}Dein Gegner hat den Server verlassen"
+	}
+	
+	"noLongerIgnoringInvites"
+    {
+		"#format"	"{1:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}You are no longer ignoring SSP invites"
+		"de"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}Du ignorierst nun keine SSP Einladungen mehr"
+	}
+	
+	"ignoringInvites"
+	{
+		"#format"	"{1:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}You are now ignoring ALL SSP invites"
+		"de"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}Du ignorierst nun ALLE SSP Einladungen"	
+	}
+    
+    "invalidTarget"
+    {
+		"#format"	"{1:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}] {darkred}Invalid Target{lightblue}!"
+		"de"		"{darkblue}[{lime}{1}{darkblue}] {darkred}Ungueltiges Ziel{lightblue}!"	
+    }
+    
+    "ingnoringInvitesBellow"
+    {
+		"#format"	"{1:s},{2:i}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}You are now ignoring SSP invites bellow {darkred}{2}{lightblue} credits"
+		"de"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}Du ignorierst nun SSP Einladungen unter {darkred}{2}{lightblue} Credits"	
+    }
+
+	"notEnoughCredits"
+	{
+		"#format"	"{1:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}Not enough credits"
+		"de"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}Nicht genuegend Credits"
+	}
+    
+    "notAlive"
+    {
+		"#format"	"{1:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}] {darkred}You have to be dead to play SRP"
+		"de"		"{darkblue}[{lime}{1}{darkblue}] {darkred}Du musst tot sein um SSP zu spielen"
+    }
+
+	"alreadyInGame"
+	{
+		"#format"	"{1:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}You are already in a SSP game"
+		"de"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}Du bist schon in einem SSP Spiel"
+	}
+
+	"pendingInvite"
+	{
+		"#format"	"{1:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}You have an invite"
+		"de"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}Du bist schon in einem SSP Spiel"
+    }
+
+    "requestDenied"
+    {
+        "#format"	"{1:s},{2:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}]{darkred}{2} {lightblue}denied your request"
+		"de"		"{darkblue}[{lime}{1}{darkblue}]{darkred}{2} {lightblue}hat deine Anfrage abgelehnt"
+    }
+
+    "opponentNotRespondInTime"
+    {
+        "#format"	"{1:s},{2:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}]{darkred} {2} {lightblue}didn't respond in time"
+		"de"		"{darkblue}[{lime}{1}{darkblue}]{darkred} {2} {lightblue}hat zu lange zum Antworten gebraucht"
+    }
+
+    "notRespondInTime"
+    {
+        "#format"	"{1:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}]{lightblue} You didn't respond in time"
+		"de"		"{darkblue}[{lime}{1}{darkblue}]{lightblue} Du hast zu lange zum Antworten gebraucht"
+    }
+
+    "opponentDisconnected"
+    {
+        "#format"	"{1:s},{2:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}]{darkred} {2} {lightblue}disconnected"
+		"de"		"{darkblue}[{lime}{1}{darkblue}]{darkred} {2} {lightblue}hat die Verbindung abgebrochen"
+    }
+
+    "opponentExitedMenu"
+    {
+        "#format"	"{1:s},{2:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}]{darkred} {2} {lightblue}exited the menu"
+		"de"		"{darkblue}[{lime}{1}{darkblue}]{darkred} {2} {lightblue}hat das Menue geschlossen"
+    }
+
+    "noItemChosenInTime"
+    {
+        "#format"	"{1:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}]{lightblue} You didn't chose an item in time"
+		"de"		"{darkblue}[{lime}{1}{darkblue}]{lightblue} Du hast zu lange zum Auswaehlen gebraucht"
+    }
+
+	"opponentCancelledMenu"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}]{darkred} {2} {lightblue} cancelled the menu -- Game will be closed"
+		"de"		"{darkblue}[{lime}{1}{darkblue}]{darkred} {2} {lightblue} hat das Menue geschlossen -- Spiel wird beendet"
+	}
+
+	"cancelledMenu"
+	{
+		"#format"	"{1:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}You cancelled the menu -- Game will be closed"
+		"de"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}Du hast das Menue geschlossen -- Spiel wird beendet"
+	}
+
+	"sameChoice"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}You both choose {green} {2} {lightblue}! It's a tie"
+		"de"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}Ihr beide habt {green} {2} {lightblue} gewaehlt! Unentschieden"
+	}
+    
+    "win"
+    {
+        "#format"   "{1:s},{2:s},{3:s},{4:s},{5:i}"
+        "en"        "{darkblue}[{lime}{1}{darkblue}] {green}[WIN]{lightblue} You choose {green}{2}{lightblue}, {darkred} {3}{lightblue} choose {green}{4}{lightblue}. You win {green}{5}{lightblue} credits!"
+        "de"        "{darkblue}[{lime}{1}{darkblue}] {green}[SIEG]{lightblue} Du hast {green}{2}{lightblue}gewaehlt, {darkred} {3}{lightblue} hat {green}{4}{lightblue}gewaehlt. Du gewinnst {green} {5}{lightblue} Credits!"
+    }
+ 
+    "lose"
+    {
+        "#format"   "{1:s},{2:s},{3:s},{4:s},{5:i}"
+        "en"        "{darkblue}[{lime}{1}{darkblue}] {darkred}[LOSE]{lightblue} You choose {green}{2}{lightblue}, {darkred}{3}{lightblue} choose {green}{4}{lightblue}. You lose {green}{5}{lightblue} credits!"
+        "de"        "{darkblue}[{lime}{1}{darkblue}] {darkred}[VERLOREN]{lightblue} Du hast {green}{2}{lightblue} gewaehlt, {darkred}{3} hat {green}{4}{lightblue} gewaehlt. Du verlierst {green}{5}{lightblue} Credits!"
+    }
+
+    "invalidAmountOfCredits"
+    {
+        "#format"	"{1:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}Invalid amount of credits"
+		"de"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}Ungueltige Anzahl an Credits"
+    }
+
+    "invalidAmountOfParams"
+    {
+        "#format"	"{1:s}"
+		"en"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}Invalid amount of parameters"
+		"de"		"{darkblue}[{lime}{1}{darkblue}] {lightblue}Ungueltige Anzahl an Parametern"
+    }
+    
+    "menu_title_chooseAmount"
+	{
+		"#format"	"{1:i}"
+		"en"		"Choose the pool (max: {1})"
+		"de"		"Waehle den Spieleinsatz (max: {1}"
+	}
+
+
+	"menu_title_chooseOpponent"
+	{
+		"#format"	"{1:i}"
+		"en"		"Choose your opponent! Pot: {1} credits"
+		"de"		"Waehle deinen Gegner! Einsatz: {1} Credits"
+	}
+
+	"menu_title_challengeReceived"
+	{
+		"#format"	"{1:s},{2:i}"
+		"en"		"{1} challenged you in SSP for {2} credits"
+        "de"		"{1} hat dich in SSP herausgefordert (Einsatz: {2} Credits)"
+	}
+
+	"menu_item_doYouAccept"
+	{
+		"en"		"Do you accept?"
+		"de"		"Nimmst du an?"
+	}
+
+    "menu_item_think"
+	{
+		"en"		"think"
+		"de"		"Denk"
+	}
+
+    "menu_item_beforeYou"
+	{
+		"en"		"before you"
+		"de"		"bevor du"
+	}
+
+
+    "menu_item_choose"
+	{
+		"en"		"choose"
+		"de"		"waehlst"
+	}
+
+
+	"menu_item_yes"
+	{
+		"en"		"Yes"
+		"de"		"Ja"	
+	}
+
+    "menu_item_no"
+	{
+		"en"		"No"
+		"de"		"Nein"	
+	}
+
+	"item_rock"
+	{
+		"en"		"Rock"
+		"de"		"Stein"	
+	}
+
+    "item_paper"
+	{
+		"en"		"Paper"
+		"de"		"Papier"	
+	}
+    
+	"item_scissors"
+	{
+		"en"		"Scissors"
+		"de"		"Schere"	
+	}
+
+	"menu_title_chooseItem"
+	{
+		"en"		"Choose your item"
+		"de"		"Triff deine Wahl"	
+	}
+
+
+	"menu_item_rock"
+	{
+		"en"		"|-> Rock <-|"
+		"de"		"|-> Stein <-|"	
+	}
+
+    "menu_item_paper"
+	{
+		"en"		"|-> Paper <-|"
+		"de"		"|-> Papier <-|"	
+	}
+	
+    "menu_item_scissors"
+	{
+		"en"		"|-> Scissors <-|"
+		"de"		"|-> Schere <-|"	
+	}
+}
