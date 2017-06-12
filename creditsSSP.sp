@@ -236,7 +236,7 @@ public void OnClientDisconnect(int client) {
 }
 
 public Action sspCommand(int client, int args) {
-	if ((g_iSSPOnlyDead == 1 || g_iSSPOnlyDead == 2) && !IsPlayerAlive(client)) {
+	if ((g_iSSPOnlyDead == 1 || g_iSSPOnlyDead == 2) && IsPlayerAlive(client)) {
 		if (!(g_bSSPOnlyDeadAdminOverride && CheckCommandAccess(client, "sm_totenfluchCMDAccess", ADMFLAG_GENERIC, true))) {
 			int m_iEquipped = Store_GetEquippedItem(client, "sspAlive");
 			if (!(g_bSSPOnlyDeadItemOverride && m_iEquipped >= 0)) {
