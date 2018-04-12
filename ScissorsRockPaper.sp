@@ -124,6 +124,7 @@ public void OnPluginStart()
 	
 	Store_RegisterHandler("sspAlive", "sspAliveUpgrade", AliveItem_OnMapStart, AliveItem_Reset, AliveItem_Config, AliveItem_Equip, AliveItem_Remove, true);
 	
+	LoadTranslations("srp.phrases");
 	
 	AutoExecConfig_SetFile("sspCredits");
 	AutoExecConfig_SetCreateFile(true);
